@@ -1,17 +1,17 @@
 # The Iron Yard Atlanta -- Portfolio
-* Index to repostories that show the evolution of my development experience at Iron Yard
+* Index to repositories that show the evolution of my development experience at The Iron Yard-ATL
 
 These repos were created throughout the Ruby on Rails Engineering bootcamp during the first quarter of 2015.
 
-## Dynamic - HTML, CSS, Rails
+## Ruby on Rails: Web apps, projects
 
 **[ClusterCard](https://github.com/dwellkit/dk-fe)**
 -- *Deployed [here](http://www.dwellingkit.com/#/)*
 > This is a responsive site, 3-week project that I presented at the Iron Yard Demo Day: Create and collect smart-phone/browser camera videos, by adding your own or inviting Facebook contributors--to create a virtual greeting card. 
-* Resources Used: Rails, Bootstrap, Javascript, JQuery
+* Resources Used: Rails, Bootstrap, Javascript, JQuery, mailers
 
 **[FlagTag](https://github.com/USPFTA/Rails)**
--- *Our project won 'best overall'! Read about it: [SolTech blog write-up](http://blog.soltech.net/iron-sharpening-iron-soltech-the-iron-yard-march-2015-hackathon)*
+-- *Our project won 'best overall'  Read about it:  [SolTech blog write-up](http://blog.soltech.net/iron-sharpening-iron-soltech-the-iron-yard-march-2015-hackathon)*
 > Weekend project hackathon sponsored by SolTech Atlanta -- with a FrontEnd developer, 2 iOS developers, myself and another back-end/Rails dev.  Allows for location-based "tagging" of user flags/events: Capture-the-flag meets Scavenger-hunt.
 * Resources Used: Ruby/Rails, API endpoints, AWS S3 integration, mailers
 
