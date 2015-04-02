@@ -5,8 +5,8 @@ These repos were created throughout the Ruby on Rails Engineering bootcamp durin
 
 ## Ruby on Rails: Web apps, projects
 
-**[ClusterCard](https://github.com/dwellkit/dk-fe)**
--- *Deployed [here](http://www.dwellingkit.com/#/)*
+**[ClusterCard.net](https://github.com/dwellkit/dk-fe)**
+-- *Deployed [here](http://www.clustercard.net/#/)*
 > This is a responsive site, 3-week project that I presented at the Iron Yard Demo Day: Create and collect smart-phone/browser camera videos, by adding your own or inviting Facebook contributors--to create a virtual greeting card. 
 * Resources Used: Rails, Bootstrap, Javascript, JQuery, mailers
 
