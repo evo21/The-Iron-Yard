@@ -11,8 +11,8 @@ These repos were created throughout the Ruby on Rails Engineering bootcamp durin
 * Resources Used: Rails, Bootstrap, Javascript, JQuery, mailers
 
 **[FlagTag](https://github.com/USPFTA/Rails)**
--- *Our project won 'best overall'  Read about it:  [SolTech blog write-up](http://blog.soltech.net/iron-sharpening-iron-soltech-the-iron-yard-march-2015-hackathon)*
-> Weekend project hackathon sponsored by SolTech Atlanta -- with a FrontEnd developer, 2 iOS developers, myself and another back-end/Rails dev.  Allows for location-based "tagging" of user flags/events: Capture-the-flag meets Scavenger-hunt.
+-- *Weekend Hackathon project sponsored by SolTech Atlanta. Awarded 'Best Overall'.  Read about it here:  [SolTech blog write-up](http://blog.soltech.net/iron-sharpening-iron-soltech-the-iron-yard-march-2015-hackathon)*
+> Along with a FrontEnd developer, 2 iOS developers, myself and another back-end/Rails dev, created a 'Capture-the-flag' + 'Scavenger-hunt' app that allows for location-based "tagging" of user flags by uploading camera images.
 * Resources Used: Ruby/Rails, API endpoints, AWS S3 integration, mailers
 
 **[Spoti-Vote](https://github.com/evo21/spoti-vote)**
